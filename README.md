@@ -2,4 +2,4 @@
 Audio Steganography is a technique used to transmit hidden information by modifying an audio signal in an imperceptible manner.
 
 ### Note
-After adding all the files in the MATLAB path, run the .mlapp file (you may need to install MATLAB packages).
+After adding all the files in the MATLAB path, run the .mlapp file (you may need to install MATLAB App Designer packages).
