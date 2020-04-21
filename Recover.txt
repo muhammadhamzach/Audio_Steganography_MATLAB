@@ -1,0 +1,16 @@
+1x Arduino MEGA2560
+2x A4988 Module
+8x Momentary SPST Cap Push Button
+1x MAX6675 Thermocouple
+4x L298N Module
+1x Fan Propeller
+2x DHT11
+1x ESC Hobbyking HK-30A
+1x OLED Display
+2x MPU6050 
+6x Light Sensor
+10x Buzzer
+10x Electric DC Motor PMMC
+
+1x Rechargeable Battery
+1x Heating Element
